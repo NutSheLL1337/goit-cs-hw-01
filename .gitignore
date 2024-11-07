@@ -6,12 +6,20 @@ __pycache__/
 # C extensions
 *.so
 # other
-rules
-pdf
-bat
-exe
-ico
+# Ignore all .exe files
+*.exe
 
+# Ignore all .ico files
+*.ico
+
+# Ignore all .pdf files
+*.pdf
+
+# Ignore all .bat files
+*.bat
+
+# Ignore all .bat files
+*.rules
 
 # Distribution / packaging
 .Python
