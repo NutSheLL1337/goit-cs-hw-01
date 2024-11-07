@@ -6,13 +6,11 @@ __pycache__/
 # C extensions
 *.so
 # other
-.rules
-.pdf
-.bat
-.exe
-.exe
-.exe
-.ico
+rules
+pdf
+bat
+exe
+ico
 
 
 # Distribution / packaging
