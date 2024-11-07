@@ -5,6 +5,15 @@ __pycache__/
 
 # C extensions
 *.so
+# other
+VSrules
+nasmdoc.pdf
+nasmpath.bat
+ndisasm.exe
+Uninstall.exe
+nasm.exe
+nasm.ico
+
 
 # Distribution / packaging
 .Python
